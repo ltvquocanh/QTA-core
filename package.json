@@ -1,0 +1,11 @@
+{
+  "name": "qta",
+  "private": true,
+  "scripts": {
+    "start": " node src/main.js"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "elliptic": "^6.4.1"
+  }
+}
